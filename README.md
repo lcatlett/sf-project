@@ -4,4 +4,4 @@ This is a Composer-based installer for an Acquia Cloud Site Factory BLT project 
 ```
 $ git clone git@github.com:lcatlett/sf-platform.git && cd sf-platform && composer install
 ```
-Composer will create a new directory called MY_PROJECT containing a `docroot` directory with a full Lightning and BLT code base therein.
+Composer will create a project containing a `docroot` directory with a full Lightning and BLT code base therein.

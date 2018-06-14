@@ -1,0 +1,11 @@
+{
+    "name": "acquia/sf-project",
+    "description": "Project template for Drupal 8 ACSF sites built with BLT.",
+    "type": "project",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "acquia/blt": "^9.1.0"
+    },
+    "require-dev": {}
+}
